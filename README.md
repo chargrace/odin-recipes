@@ -1,1 +1,2 @@
 # odin-recipes
+This project is a collection of recipes that can be accessed from the index at index.html. In this project I have used HTML tags and attributes to include links, images, unordered and ordered lists. 
